@@ -12,11 +12,11 @@
 - **Start Button Integration**: Begin your journey to finding friends with a single click.
 
 ## Contract Details
-- **Contract Address**: `0xc1433abe2ff5db21E47c701CC2E6E540AdB941d8`
-- **Network**: Neo X Testnet T4
+- **Contract Address**: `0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A`
+- **Network**: Neo X Mainnet
 
 ## Deployment
-- **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0xc1433abe2ff5db21E47c701CC2E6E540AdB941d8)
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A)
 - **Coin Used**: GAS
 
 
